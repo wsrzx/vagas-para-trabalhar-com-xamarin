@@ -39,6 +39,7 @@ O objetivo deste repositório é ser um índice de vagas de trabalho relacionada
 #### Santa Catarina
 #### São Paulo
 * São Paulo, Capta Tecnologia [Analista Programador Xamarin](https://www.facebook.com/photo.php?fbid=1245575788874739&set=a.1245575352208116.1073741827.100002669896998&type=3&theater)
+
 #### Sergipe
 #### Tocantins
 
