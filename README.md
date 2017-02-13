@@ -31,6 +31,7 @@ O objetivo deste repositório é ser um índice de vagas de trabalho relacionada
 * Curitiba, CINQ Technologies [Desenvolvedor Mobile/Xamarin](https://www.curitibati.com.br/Vaga/Detalhe/981/desenvolvedor-de-software-curitibapr-cinq-technologies)
 * Curitiba, IntellyIT [Desenvolvedor Mobile - .NET Xamarin](https://www.curitibati.com.br/Vaga/Detalhe/953/desenvolvedor-mobile-curitibapr-intellyit)
 * Curitiba, Idéia no AR [Freelancer Xamarin (Android e IOS)](https://www.curitibati.com.br/Vaga/Detalhe/947/desenvolvedor-mobile-curitibapr-ideia-no-ar)
+* Curitiba, Prime Control [Xamarim - Sênior #6570](https://www.peoplerpm.com/careers/primecontrol/?module=vaga&action=selecionaVaga&pk_vaga=6570#.WKHbcRIrKb-)
 
 #### Pernambuco
 #### Piauí
